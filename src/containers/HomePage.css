@@ -1,0 +1,8 @@
+.home-page {
+  display: flex;
+}
+
+.color-input,
+.color-preview {
+  flex: 1;
+}
